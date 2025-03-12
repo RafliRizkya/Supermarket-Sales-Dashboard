@@ -1,5 +1,8 @@
 # Supermarket-Sales-Dashboard
 
+![Supermarket Sales Dashboard](Supermarket Sales.png)
+
+
 📌 Overview
 This dashboard was built using Power BI to analyze supermarket sales data. The dataset was sourced from Kaggle and has been transformed to provide meaningful insights into sales performance, customer behavior, and revenue distribution.
 

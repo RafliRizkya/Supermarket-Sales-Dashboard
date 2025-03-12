@@ -1,6 +1,6 @@
 # Supermarket-Sales-Dashboard
 
-![Supermarket Sales Dashboard](Supermarket Sales.png)
+![Supermarket Sales Dashboard](Supermarket%20Sales.png)
 
 
 📌 Overview
